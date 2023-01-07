@@ -10,8 +10,22 @@
     color: white;
 }
 
-.bodyprincipal {
-    display: flex;
-    width: 400px;
-    height: 400px;
+
+.center {
+    position: relative;
+    width: 200px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.titulo {
+    color: black;
+    font-family: 'FORQUE', sans-serif;
+    position: absolute;
+    top: 30%;
+    left: 5%;
+}
+
+.background-principal {
+    background-image: url(css/principalb1.png);
 }
