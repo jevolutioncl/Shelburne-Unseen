@@ -1,0 +1,17 @@
+.principal{
+    background-color:#303030;
+}
+
+.navbarme{
+    background-color: #171717;
+}
+
+.navbar {
+    color: white;
+}
+
+.bodyprincipal {
+    display: flex;
+    width: 400px;
+    height: 400px;
+}
