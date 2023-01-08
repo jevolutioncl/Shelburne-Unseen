@@ -19,13 +19,39 @@
 }
 
 .titulo {
-    color: black;
+    color: rgb(255, 255, 255);
     font-family: 'FORQUE', sans-serif;
+    font-size: 40px;
     position: absolute;
     top: 30%;
     left: 5%;
 }
 
-.background-principal {
-    background-image: url(css/principalb1.png);
+.subtitulo {
+    color: #f0ad71;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 40%;
+    left: 5%;
+}
+
+.subtitulo2 {
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-variation-settings: 'wght' 400;
+    font-size: 16px;
+    position: absolute;
+    margin: 10px 0 10px 15px;
+    line-height: 1.5; 
+    top: 50%;
+    left: 5%;
+}
+
+.botonesprincipal {
+    position: absolute;
+    margin: 10px 0 10px 15px;
+    line-height: 3.0; 
+    top: 70%;
+    left: 5%;
 }
